@@ -1,0 +1,21 @@
+PatientID,PatientName,Age,Gender,City,InsuranceType
+P-001,James Harlow,45,Male,New York,Private
+P-002,Maria Santos,32,Female,Los Angeles,Medicaid
+P-003,Robert Chen,67,Male,Chicago,Medicare
+P-004,Aisha Williams,28,Female,Houston,Self-Pay
+P-005,Thomas Berg,54,Male,Phoenix,Private
+P-006,Linda Park,41,Female,Philadelphia,Private
+P-007,Carlos Rivera,19,Male,San Antonio,Medicaid
+P-008,Dorothy Walsh,72,Female,San Diego,Medicare
+P-009,Kevin Murphy,38,Male,Dallas,Self-Pay
+P-010,Jennifer Lee,55,Female,San Jose,Private
+P-011,William Scott,63,Male,Austin,Medicare
+P-012,Amanda Foster,24,Female,Jacksonville,Self-Pay
+P-013,Michael Torres,47,Male,San Francisco,Private
+P-014,Patricia Kim,81,Female,Columbus,Medicare
+P-015,David Nguyen,36,Male,Charlotte,Military
+P-016,Susan Clarke,29,Female,Indianapolis,Medicaid
+P-017,Richard Evans,58,Male,Seattle,Private
+P-018,Nancy Adams,44,Female,Denver,Self-Pay
+P-019,Christopher Hall,71,Male,Nashville,Medicare
+P-020,Elizabeth Young,33,Female,Louisville,Private

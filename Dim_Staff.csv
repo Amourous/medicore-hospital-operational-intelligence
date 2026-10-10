@@ -1,0 +1,13 @@
+StaffID,StaffName,Role,DeptID,HourlyRate
+S-01,Dr. Marcus Webb,Senior Physician,D-01,120.00
+S-02,Dr. Priya Sharma,Physician,D-01,95.00
+S-03,Dr. James O'Brien,Senior Physician,D-02,135.00
+S-04,Dr. Yuki Tanaka,Physician,D-03,110.00
+S-05,Dr. Samuel Adeyemi,Physician,D-04,105.00
+S-06,Dr. Rachel Cohen,Senior Physician,D-05,115.00
+S-07,Dr. Liam Patel,Physician,D-06,100.00
+S-08,Nurse Ana Rodrigues,Head Nurse,D-01,45.00
+S-09,Nurse Tony Freeman,Nurse,D-01,38.00
+S-10,Nurse Grace Kim,Head Nurse,D-02,48.00
+S-11,Nurse Omar Hassan,Nurse,D-05,36.00
+S-12,Nurse Claire Dubois,Nurse,D-06,38.00

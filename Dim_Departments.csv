@@ -1,0 +1,7 @@
+DeptID,DepartmentName,DeptType,BedCapacity,TargetWaitTime_mins
+D-01,Emergency Room,Emergency,30,60
+D-02,Intensive Care Unit,Critical Care,20,30
+D-03,Cardiology,Specialist,25,120
+D-04,Orthopedics,Specialist,20,120
+D-05,General Medicine,General,35,90
+D-06,Pediatrics,General,25,90
